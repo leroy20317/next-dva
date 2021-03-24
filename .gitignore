@@ -1,0 +1,11 @@
+node_modules
+.idea/
+.vscode/
+.next/
+build/
+build/*
+.cache
+yarn.lock
+yarn-error.log
+build.zip
+dist.zip
